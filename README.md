@@ -10,8 +10,8 @@ This repo contains the code and results used to evaluate the performance of the 
 ## Usage:
 First, run the pre-trained MDNet tracker using
 
-`cd tracking\n
-python run_tracker.py -s DragonBaby [-d (display fig)] [-f (save fig)]`
+`cd tracking
+python run_tracker.py -s DragonBaby [-d (display fig)] [-f (save fig)]*separate paragraph*`
 
 To create a video from the image sequences, go inside the performance_eval directory and run the command:
 
