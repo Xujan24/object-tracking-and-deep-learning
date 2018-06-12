@@ -23,10 +23,10 @@ To generate the Average overlap Score (AOS) and the success plot run
 
 **Note: to generate the report create a text file containing the name of all sequences and save it as `seq_list.txt`**
 
-`@InProceedings{nam2016mdnet,<br />
-author = {Nam, Hyeonseob and Han, Bohyung},<br />
-title = {Learning Multi-Domain Convolutional Neural Networks for Visual Tracking},<br />
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},<br />
-month = {June},<br />
-year = {2016}<br />
-}`
+`@InProceedings{nam2016mdnet,`<br />
+`author = {Nam, Hyeonseob and Han, Bohyung},`<br />
+`title = {Learning Multi-Domain Convolutional Neural Networks for Visual Tracking},`<br />
+`booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},`<br />
+`month = {June},`<br />
+`year = {2016}`<br />
+`}`
