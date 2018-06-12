@@ -9,7 +9,10 @@ This repo contains the code and results used to evaluate the performance of the 
 
 ## Usage:
 First, run the pre-trained MDNet tracker using
+
 ` cd tracking
+
+
  python run_tracker.py -s DragonBaby [-d (display fig)] [-f (save fig)]`
 
 To create a video from the image sequences, go inside the performance_eval directory and run the command:
@@ -23,9 +26,14 @@ To generate the Average overlap Score (AOS) and the success plot run
 **Note: to generate the report create a text file containing the name of all sequences and save it as `seq_list.txt`**
 
 `@InProceedings{nam2016mdnet,
+
 author = {Nam, Hyeonseob and Han, Bohyung},
+
 title = {Learning Multi-Domain Convolutional Neural Networks for Visual Tracking},
+
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+
 month = {June},
+
 year = {2016}
 }`
